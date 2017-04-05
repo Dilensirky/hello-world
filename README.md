@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+#author Dilensirky
+
+Here you are,my first repository
